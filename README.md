@@ -8,18 +8,19 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Lucca Campos Xavier
+- Matricula:1645973
+- Proposta de projeto escolhida: Lugares e Experiências
+- Breve descrição sobre seu projeto: Um site que permite o usuario criar uma postagem divulgando uma partida de algum esporte que ele esteja organizando, e permite que outros usuarios se inscrevam nessas partidas para que possam participar.
+
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![print responsiva css desktop](./public/images/print-pagina-inicial-css.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![print responsiva css mobile](./public/images/print-pagina-inicial-css-mobile.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
